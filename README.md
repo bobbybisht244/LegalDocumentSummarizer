@@ -34,6 +34,4 @@ A browser extension that  detects and summarizes legal documents like terms of s
 
 This extension processes document text through multiple AI APIs. The extension includes a pre-configured OpenAI API key, but you may need to provide your own keys for Claude and Gemini models. No document data is stored permanently beyond your local browser storage.
 
-## License
 
-MIT License
